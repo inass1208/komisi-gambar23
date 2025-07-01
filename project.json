@@ -1,0 +1,8 @@
+{
+  "projectId": "komisi-gambar-placeholder-id",
+  "orgId": "placeholder-org-id",
+  "settings": {
+    "framework": "vite",
+    "rootDirectory": "frontend"
+  }
+}
